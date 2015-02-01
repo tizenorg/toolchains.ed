@@ -56,3 +56,4 @@ rm -rf $RPM_BUILD_ROOT
 /bin/*
 %doc %{_infodir}/ed.info.gz
 %doc %{_mandir}/*/*
+
